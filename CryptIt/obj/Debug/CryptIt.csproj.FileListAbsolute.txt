@@ -1,0 +1,15 @@
+c:\users\ray\documents\visual studio 2012\Projects\CryptIt\CryptIt\obj\Debug\CryptIt.Properties.Resources.resources
+c:\users\ray\documents\visual studio 2012\Projects\CryptIt\CryptIt\obj\Debug\CryptIt.csproj.GenerateResource.Cache
+c:\users\ray\documents\visual studio 2012\Projects\CryptIt\CryptIt\bin\Debug\CryptIt.exe
+c:\users\ray\documents\visual studio 2012\Projects\CryptIt\CryptIt\bin\Debug\CryptIt.pdb
+c:\users\ray\documents\visual studio 2012\Projects\CryptIt\CryptIt\obj\Debug\CryptIt.exe
+c:\users\ray\documents\visual studio 2012\Projects\CryptIt\CryptIt\obj\Debug\CryptIt.pdb
+C:\Users\Ray\documents\visual studio 2012\Projects\Cryptit\CryptIt\obj\Debug\CryptIt.Form1.resources
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\CryptIt\CryptIt\bin\Debug\CryptIt.exe
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\CryptIt\CryptIt\bin\Debug\CryptIt.pdb
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\CryptIt\CryptIt\obj\Debug\CryptIt.csprojResolveAssemblyReference.cache
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\CryptIt\CryptIt\obj\Debug\CryptIt.Form1.resources
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\CryptIt\CryptIt\obj\Debug\CryptIt.Properties.Resources.resources
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\CryptIt\CryptIt\obj\Debug\CryptIt.csproj.GenerateResource.Cache
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\CryptIt\CryptIt\obj\Debug\CryptIt.exe
+C:\Users\msn\Documents\workspaces\VS 2012\Projects\CryptIt\CryptIt\obj\Debug\CryptIt.pdb
